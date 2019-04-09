@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hi There!!!! React is cool
+            Hi There!!!! Docker, Travis and AWS in action
           
           </a>
         </header>

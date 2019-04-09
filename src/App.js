@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hi There!!!! Docker, Travis and AWS in action
+            Hi There!!!! GITHUB! Travis and AWS in action on feature branch
           
           </a>
         </header>
